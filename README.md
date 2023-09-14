@@ -3,7 +3,7 @@
 <!--🔭 Student at TEC (Instituto Tecnológico de Costa Rica) -->
 
 <div align="center">
-  <a href="https://github.com/SashenJayathilaka">
+  <a href="https://github.com/JoseMoyaCR">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoseMoyaCR&show_icons=true&theme=radical"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseMoyaCR&layout=compact"/>
 </div>
